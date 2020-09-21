@@ -1,0 +1,66 @@
+
+body{
+  font-family: rancher;
+}
+
+h2, h1,h4,h5{
+  color:black;
+}
+
+@font-face{
+  font-family:'rancher';
+  src:url(../fonts/Ranchers-Regular.ttf)
+}
+
+.jumbotron{
+  background-color: rgb(0, 138, 230);
+  background-image: url('../img/Comic_banner.jpg');
+  height: auto;
+}
+
+footer{
+  opacity: 0.8;
+  background-color: rgb(0, 138, 230);
+}
+
+
+
+p{
+  color:black;
+}
+
+.imagenescarousel{
+  width:200px;
+  height:200px;
+}
+
+small{
+  font-size: 200%;
+}
+
+footer a{
+  color:black;
+}
+
+.imgmedia{
+  width:200px;
+  height: 200px;
+}
+
+#mycarousel{
+  background-color:rgb(0, 138, 230);
+  border-radius: 5px;
+}
+
+#mycarousel:hover{
+  box-shadow: 3px 3px 3px 3px rgb(204, 235, 255);
+}
+
+.card-header{
+  background-color: rgb(0, 138, 230);
+}
+
+.cj3{
+  margin-top:2%;
+  margin-bottom: 2%;
+}
