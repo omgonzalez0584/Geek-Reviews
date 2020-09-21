@@ -1,6 +1,6 @@
 
 body{
-  font-family: rancher;
+  /*font-family: rancher; */
 }
 
 h2, h1,h4,h5{
@@ -67,4 +67,24 @@ footer a{
 }
 form{
   border-radius: 2px;
+}
+
+#s2{
+  margin-top:2%;
+  margin-bottom: 2%;
+}
+
+.th1{
+  background-color: rgb(0, 138, 230);
+  color:rgb(255,255,255);
+}
+
+table td,tr{
+  opacity:0.8;
+  text-align: center;
+}
+
+tr:hover{
+  opacity: 1;
+  box-shadow: 1px 1px 1px 1px rgb(255,255,255);
 }
